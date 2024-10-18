@@ -2,7 +2,7 @@
   "name":  "atesta",
   "entryPoint":  "atesta.js",
   "points":  {
-    "labelAttribute":  "name",
+    "labelAttribute":  "name1",
     "noPoints":  true
   }
 }
